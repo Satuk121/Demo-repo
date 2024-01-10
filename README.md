@@ -1,8 +1,8 @@
 DESCRIPTION
 
-1. Create a git repository with a readme file
+ 1. Create a git repository with a readme file
 
-2. git clone(you Repo)
+ 2. git clone(you Repo)
 
  3.create index.html(IMPORTANT)
 
